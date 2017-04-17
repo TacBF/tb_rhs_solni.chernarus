@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Tactical Battlefield">
+<Package name="Missions">
+
+<Container name="TB_Solni">
+
+	<Key ID="STR_TB_missionTitle_TB_Solni">
+		<Original>Solni</Original>
+		<English>Solni</English>
+		<German>Solni</German>
+		<Italian>Solni</Italian>
+		<Spanish>Solni</Spanish>
+		<French>Solni</French>
+		<Czech>Solni</Czech>
+		<Russian>Solni</Russian>
+		<Polish>Solni</Polish>
+		<Hungarian>Solni</Hungarian>
+	</Key>
+
+	<Key ID="STR_TB_briefingName_TB_Solni">
+		<Original>TacBF A&amp;S[T-10]: Solni</Original>
+		<English>TacBF A&amp;S[T-10]: Solni</English>
+		<German>TacBF A&amp;S[T-10]: Solni</German>
+		<Italian>TacBF A&amp;S[T-10]: Solni</Italian>
+		<Spanish>TacBF A&amp;S[T-10]: Solni</Spanish>
+		<French>TacBF A&amp;S[T-10]: Solni</French>
+		<Czech>TacBF A&amp;S[T-10]: Solni</Czech>
+		<Russian>TacBF A&amp;S[T-10]: Solni</Russian>
+		<Polish>TacBF A&amp;S[T-10]: Solni</Polish>
+		<Hungarian>TacBF A&amp;S[T-10]: Solni</Hungarian>
+	</Key>
+
+</Container>
+
+</Package>
+</Project>
